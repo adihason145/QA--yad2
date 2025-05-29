@@ -1,32 +1,38 @@
-# QA Project – Yad2 Website Testing
+# Manual QA Project – Yad2 Website
 
-## Project Overview
-This is a manual QA project conducted as part of a practical QA course.  
-The goal of the project was to test the core functionalities of the Yad2 website – a well-known Israeli classifieds platform.
+This repository presents a manual QA project performed as part of a practical software testing course.  
+The project focuses on testing the Yad2 website, a leading classifieds platform in Israel.
+
+## Project Scope
+
+The objective was to verify key functionalities of the Yad2 website by simulating typical user actions and thoroughly documenting the testing process.
 
 ## Tools and Technologies
-- Test Documentation: STP (Test Plan), STD (Test Cases), STR (Test Report)
-- Bug Tracking: Jira (simulated bugs)
-- Database Querying: SQLite via DBeaver
-- Operating System: Windows
 
-## What Was Tested
-- Search functionality
-- Posting a new ad
-- User registration and login
-- Filtering and sorting
-- Error handling (negative test cases)
+- Manual Testing (Web application)
+- Microsoft Word (Test Plan documentation)
+- Microsoft Excel (Test Cases)
+- Microsoft PowerPoint (Bug Reporting)
+- Jira (Bug tracking)
+- TestRail (Basic test management)
+- SQLite and DBeaver (Basic SQL querying)
 
 ## Project Files
-- `STP_Yad2.docx`: Test plan, scope, schedule, and test strategy
-- `STD_Yad2.xlsx`: Detailed test cases with expected results
-- `STR_Yad2_template.docx`: Summary report of test execution
 
-## Related Tools
-- Jira Bug Report Examples: included as screenshots or documentation
-- DBeaver usage: basic SQL queries on simulated data
+| File Name           | Description                             |
+|---------------------|---------------------------------------|
+| STP_Yad2.docx       | Software Test Plan                     |
+| STD_Yad2.xlsx       | Test Cases                            |
+| STR_Yad2.pptx       | Bug Report Template                    |
 
-## About the Author
-Adi Hasson – QA Student with strong analytical and documentation skills  
-GitHub: [adihason145](https://github.com/adihason145)  
-LinkedIn: [Insert your LinkedIn profile here]
+## Tested Features
+
+- Creating and posting listings
+- Searching for listings
+- Using filters and sorting options
+- User registration and login
+
+## Notes
+
+- Testing was performed manually using desktop browsers.
+- All documentation is written in Hebrew.
