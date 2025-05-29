@@ -17,13 +17,11 @@ The objective was to verify key functionalities of the Yad2 website by simulatin
 - TestRail (Basic test management)
 - SQLite and DBeaver (Basic SQL querying)
 
-## Project Files
-
-| File Name           | Description                             |
-|---------------------|---------------------------------------|
-| STP_Yad2.docx       | Software Test Plan                     |
-| STD_Yad2.xlsx       | Test Cases                            |
-| STR_Yad2.pptx       | Bug Report Template                    |
+| File Name      | Description                   |
+|----------------|-------------------------------|
+| STD_Yad2.pdf   | Test Cases document           |
+| STP_Yad2.pdf   | Software Test Plan document   |
+| STR_Yad2.pdf   | Bug Report Template document  |              |
 
 ## Tested Features
 
